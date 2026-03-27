@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from 'vue'
+import { ref } from 'vue'
 import SideNavBar from '../components/SideNavBar.vue'
 import BottomNavBar from '../components/BottomNavBar.vue'
 import { userStore } from '../store/userStore'
